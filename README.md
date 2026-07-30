@@ -61,8 +61,8 @@ This repository contains multiple **image classification projects** built using 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/pouyasolltani81/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/pouyasolltani81/computer_vision.git
+cd computer_vision
 ```
 
 2. Install dependencies:
